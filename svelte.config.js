@@ -12,7 +12,7 @@ export default {
 			strict: true
 		}),
         paths: {
-			base: 'https://xhuw.github.io/twos',
+			base: '/twos',
         }
 	}
 };
